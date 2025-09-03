@@ -1,0 +1,3 @@
+Model,Val Accuracy,Val Precision,Val Recall,Parameters,Inference Time,Best For
+MobileNet,0.9063745141029358,0.9213250279426575,0.886454164981842,"3,232,964",Fast,Mobile/Edge devices
+VGG16,0.7430278658866882,0.9259259104728699,0.4621514081954956,"14,716,740",Medium,Medium-sized datasets
